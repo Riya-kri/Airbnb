@@ -1,5 +1,5 @@
 const Listing = require("../models/listing.js");
-const { geocodeLocation } = require("../utils/geocode.js");
+const { geocodeLocation } = require("../Utils/geocode.js");
 
 
 module.exports.index = async(req,res)=>{
