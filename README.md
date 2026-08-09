@@ -264,12 +264,6 @@ screenshots/
 └── map.png
 ```
 
-Example:
-
-```markdown
-![Home Page](screenshots/home.png)
-```
-
 ## 👩‍💻 Author
 
 **Riya**
@@ -279,7 +273,7 @@ B.Tech Computer Science & Engineering Student
 ### Connect with me
 
 * GitHub: https://github.com/Riya-kri
-* LinkedIn: inkedin.com/in/riya-kumari-a992a4301/
+* LinkedIn: https://www.linkedin.com/in/riya-kumari-a992a4301
 
 ## ⭐ Acknowledgements
 
