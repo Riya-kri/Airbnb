@@ -1,4 +1,4 @@
-# 🏡 Airbnb Clone
+# 🏡 Airbnb Website
 
 A full-stack Airbnb-inspired web application where users can explore property listings, create and manage their own listings, leave reviews, and authenticate securely.
 
